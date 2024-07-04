@@ -3,7 +3,7 @@
 client_id = "3d887c45534391c9c4be4d71cf99622a"
 name = "sample-app"
 handle = "sample-app-1717"
-application_url = "https://larry-voltage-discs-strengthen.trycloudflare.com"
+application_url = "https://trinity-interfaces-tuner-snowboard.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://larry-voltage-discs-strengthen.trycloudflare.com/auth/callback",
-  "https://larry-voltage-discs-strengthen.trycloudflare.com/auth/shopify/callback",
-  "https://larry-voltage-discs-strengthen.trycloudflare.com/api/auth/callback"
+  "https://trinity-interfaces-tuner-snowboard.trycloudflare.com/auth/callback",
+  "https://trinity-interfaces-tuner-snowboard.trycloudflare.com/auth/shopify/callback",
+  "https://trinity-interfaces-tuner-snowboard.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
